@@ -1,16 +1,15 @@
-### Hi there 👋
 
-<!--
-**ladeng07/ladeng07** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<div align="center">
+  <h1>👨‍💻Welcome to LMark's Profile!🚀</h1>
 
-Here are some ideas to get you started:
+  <br/>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+  <h3>⭐️ &nbsp;GitHub Stars</h3>
+  <img width="500px"  alt="GitHub Stats" src="https://github-readme-stats.vercel.app/api?username=ladeng07&count_private=true&show_icons=true"/>
+
+  <br/>
+
+  <h3>🛳 &nbsp;Old World's Ship Tickets</h3>
+  <img src="https://profile-counter.glitch.me/ladeng07/count.svg" />
+</div>
+
